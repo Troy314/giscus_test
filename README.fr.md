@@ -117,3 +117,19 @@ Ce README est disponible en :
 [![Propulsé par Vercel](public/powered-by-vercel.svg)][vercel]
 
 [vercel]: https://vercel.com/?utm_source=giscus&utm_campaign=oss
+
+<script src="https://giscus.app/client.js"
+        data-repo="Troy314/giscus_test"
+        data-repo-id="R_kgDOQEkGig"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
